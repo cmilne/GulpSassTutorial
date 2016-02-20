@@ -1,0 +1,16 @@
+{
+  "name": "gulpsass",
+  "version": "1.0.0",
+  "description": "Testing Sass and Gulp",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Milne",
+  "license": "ISC"
+}
